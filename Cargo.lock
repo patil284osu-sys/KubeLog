@@ -53,7 +53,7 @@ dependencies = [
 name = "dispatch2"
 version = "0.3.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1e0e367e4e7daae9689b9b0522b353236570d92566a0fe224bc7a415e4fc3da2"
+checksum = "1e0e367e4e7da84520dedcac1901e4da967309406d1e51017ae1abfb97adbd38"
 dependencies = [
  "bitflags",
  "block2",
